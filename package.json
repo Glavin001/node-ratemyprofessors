@@ -1,0 +1,27 @@
+{
+  "name": "node-ratemyprofessors",
+  "version": "0.1.0",
+  "description": "Node.js API for RateMyProfessors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Glavin001/node-ratemyprofessors.git"
+  },
+  "keywords": [
+    "RateMyProfessors"
+  ],
+  "author": "Glavin Wiechert <glavin.wiechert@gmail.com> (https://github.com/Glavin001)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Glavin001/node-ratemyprofessors/issues"
+  },
+  "homepage": "https://github.com/Glavin001/node-ratemyprofessors",
+  "dependencies": {
+    "cheerio": "^0.13.1",
+    "request": "^2.34.0",
+    "q": "^1.0.1"
+  }
+}
